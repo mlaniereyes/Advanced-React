@@ -1,3 +1,1 @@
-export default function IndexPage() {
-  return <p>Hello page</p>;
-}
+export { default } from './products';
